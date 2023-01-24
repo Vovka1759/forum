@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import Notifications from "./Notifications";
 import PostList from "../Posts/PostList";
 class Dashboard extends Component {
